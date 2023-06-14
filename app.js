@@ -9,8 +9,6 @@ const eventRoutes = require('./api/routes/events');
 
 mongoose.connect(
     'mongodb+srv://aggelos101:appevent404@cluster0.v0iypnr.mongodb.net/EventsApp?retryWrites=true&w=majority' ,
-   
-    
     {
       useNewUrlParser: true,
       useUnifiedTopology: true
