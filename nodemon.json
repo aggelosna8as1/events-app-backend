@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_ATLAS_URI": "mongodb+srv://aggelos101:appevent404@cluster0.v0iypnr.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
